@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy – Polar Members</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Polar Members – Been Meter Map</strong></p>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+        <h2>1. Data Collection</h2>
+        <p>We do <strong>not share any personal data with third parties</strong>. The app may request access to:</p>
+        <ul>
+            <li><strong>Location</strong> – for location-based features.</li>
+            <li><strong>Camera & Photo Gallery</strong> – to add photos in the app.</li>
+            <li><strong>Notifications</strong> – to notify you of app events.</li>
+        </ul>
+        <p>All data remains <strong>on your device</strong>. We do <strong>not collect analytics or crash reports</strong>.</p>
+
+        <h2>2. Map Data</h2>
+        <p>Maps are provided by <strong>MapLibre Native</strong> and work <strong>fully offline</strong>. No map tiles or data are downloaded from the internet.</p>
+
+        <h2>3. Weather Data</h2>
+        <p>Weather information comes directly from <strong>Apple Weather</strong> and is <strong>not shared with third parties</strong>.</p>
+
+        <h2>4. Payments</h2>
+        <p>In-app purchases are processed via <strong>RevenueCat</strong>. We do <strong>not store or process your payment information</strong>.</p>
+
+        <h2>5. User Wishes</h2>
+        <p>Wishes submitted in the app are sent to <strong>WishKit servers</strong> to support app functionality.</p>
+
+        <h2>6. Security</h2>
+        <p>All personal data stays on your device unless explicitly transmitted to <strong>RevenueCat</strong> or <strong>WishKit</strong>. Standard device-level security applies.</p>
+
+        <h2>7. Updates</h2>
+        <p>This Privacy Policy may change. Users will be notified of major updates in the app.</p>
+    </div>
+</body>
+</html>
